@@ -1,0 +1,24 @@
+{
+  "name": "neo-design-patterns-hw-05",
+  "version": "1.0.0",
+  "description": "Directory analysis utility using Facade and Adapter patterns",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "ts-node main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nataliia-Aldushyna/neo-design-patterns-hw-05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
